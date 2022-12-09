@@ -1,0 +1,4 @@
+telepot
+google-api-python-client
+youtube_dl
+mega.py
